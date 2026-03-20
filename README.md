@@ -14,6 +14,7 @@ unzip coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip -d PersonDetectionModel
 
 - Install the dependencies
 ```
+python3 -m venv venv
 source venv/bin/activate
 pip install
 ```
